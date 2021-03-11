@@ -1,3 +1,6 @@
+# This code is a test to see if I can apply recursion on dictionaries to break the code 100%
+
+
 import enchant
 
 message = "thisisatest"
